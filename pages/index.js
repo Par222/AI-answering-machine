@@ -41,7 +41,7 @@ export default function Home() {
           headers: {
             "Content-Type": "application/json",
             Authorization:
-              "Bearer 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",
+              "Bearer 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",
           },
         
       }
